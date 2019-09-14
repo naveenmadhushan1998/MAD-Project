@@ -1,6 +1,14 @@
 <resources>
-<string name="app_name">MAD Mini Project_Team Oreo</string>
-<string name="app_slogan">Get Latest Smartphone here</string>
-<string name="main_join_now_btn">JOIN NOW</string>
-<string name="main_login_btn">Already Have An Account? Login</string>
+    <string name="app_name">MAD Mini Project_Team Oreo</string>
+    <string name="app_slogan">Get Latest Smartphone here</string>
+    <string name="main_join_now_btn">JOIN NOW</string>
+    <string name="main_login_btn">Already Have An Account? Login</string>
+    <string name="join_name_input">Enter Name</string>
+    <string name="join_phone_number_input">Enter Phone Number</string>
+    <string name="password_input">Enter Password</string>
+    <string name="join_now">JOIN NOW</string>
+    <string name="forget_pw">Forget Password</string>
+    <string name="remember_me_checkbox">Remember Me</string>
+    <string name="login_password_input">Enter Password</string>
+    <string name="login_phone_number_input">Enter Name</string>
 </resources>
